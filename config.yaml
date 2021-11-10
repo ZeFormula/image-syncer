@@ -3,11 +3,7 @@ auth:
     username: USERNAME
     password: PASSWORD
 images:
-  k8s.gcr.io/sig-storage/csi-attacher: registry.cn-hangzhou.aliyuncs.com/post_iptv
-  k8s.gcr.io/sig-storage/csi-provisioner: registry.cn-hangzhou.aliyuncs.com/post_iptv
-  k8s.gcr.io/sig-storage/csi-node-driver-registrar: registry.cn-hangzhou.aliyuncs.com/post_iptv
-  k8s.gcr.io/sig-storage/csi-resizer: registry.cn-hangzhou.aliyuncs.com/post_iptv
-  k8s.gcr.io/sig-storage/csi-snapshotter: registry.cn-hangzhou.aliyuncs.com/post_iptv
+  willdockerhub/prometheus-adapter:registry.cn-hangzhou.aliyuncs.com/post_iptv/test
   
   
   
