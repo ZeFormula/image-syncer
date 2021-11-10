@@ -3,7 +3,7 @@ auth:
     username: USERNAME
     password: PASSWORD
 images:
-  willdockerhub/prometheus-adapter:registry.cn-hangzhou.aliyuncs.com/post_iptv/test
+  willdockerhub/prometheus-adapter:registry.cn-hangzhou.aliyuncs.com/post_iptv
   
   
   
