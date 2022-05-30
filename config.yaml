@@ -3,9 +3,4 @@ auth:
     username: USERNAME
     password: PASSWORD
 images:
-  k8s.gcr.io/metrics-server/metrics-server: registry.cn-hangzhou.aliyuncs.com/post_iptv/metrics-server
-  k8s.gcr.io/metrics-server-amd64: registry.cn-hangzhou.aliyuncs.com/post_iptv/ metrics-server-amd
-  google/cadvisor: registry.cn-hangzhou.aliyuncs.com/post_iptv/cadvisor
-  jimmidyson/configmap-reload:v0.5.0: registry.cn-hangzhou.aliyuncs.com/post_iptv/jimmidyson
-  grafana/grafana:8.1.1: registry.cn-hangzhou.aliyuncs.com/post_iptv/grafana
   k8s.gcr.io/kustomize/kustomize:v3.8.7: registry.cn-hangzhou.aliyuncs.com/post_iptv/kustomize
