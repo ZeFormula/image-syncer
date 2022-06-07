@@ -3,5 +3,4 @@ auth:
     username: USERNAME
     password: PASSWORD
 images:
-  k8s.gcr.io/kustomize/kustomize : registry.cn-hangzhou.aliyuncs.com/post_iptv/kustomize
-  gcr.io/google-containers/prometheus-to-sd : registry.cn-hangzhou.aliyuncs.com/post_iptv/prometheus-to-sd
+  k8s.gcr.io/descheduler/descheduler : registry.cn-hangzhou.aliyuncs.com/post_iptv/descheduler
